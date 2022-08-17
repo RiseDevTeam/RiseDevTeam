@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="dsmark"height="50%" width="100%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+  <img alt="dsmark"height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 </p>
 
 <h1 align="center">Hi, We Are Rise Development <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
