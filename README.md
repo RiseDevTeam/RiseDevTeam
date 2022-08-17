@@ -1,6 +1,5 @@
 <p align="center">
-<!--   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/> -->
-  <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+  <img alt="dsmark"height="50%" width="100%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 </p>
 
 <h1 align="center">Hi, We Are Rise Development <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
