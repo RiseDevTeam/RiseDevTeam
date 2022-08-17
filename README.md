@@ -6,6 +6,19 @@
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
+- 👯 I’m looking to collaborate on **Spring Framework**
+
+- 🤝 I’m looking for help with **Backend Design**
+
+- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+
+- 💬 Ask me about **System Designs and Philosophy 😆**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
+
+
 
 <!--
 **RiseDevTeam/RiseDevTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
