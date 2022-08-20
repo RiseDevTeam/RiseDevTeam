@@ -1,6 +1,6 @@
 <h1 align="center">Hi, We Are Rise Development <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 <h3 font-size="20" align="center">We Are Web Development Agency.</h3>
-<br></h1>
+</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" />
