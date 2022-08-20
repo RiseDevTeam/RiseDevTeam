@@ -1,9 +1,9 @@
-<h1 align="center">Hi, We Are Rise Development <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, We Are Rise Development <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+<h3 font-size="20" align="center">We Are Web Development Agency.</h3>
+<br></h1>
 
 <p align="center">
   <img alt="dsmark"height="50%" width="30%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-<h3 font-size="20" align="center">We Are Web Development Agency.</h3>
-<br>
 </p>
 
 
