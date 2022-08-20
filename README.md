@@ -3,11 +3,11 @@
 <br></h1>
 
 <p align="center">
-  <img alt="dsmark"height="50%" width="30%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" />
 </p>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+- 🌱 I’m currently learning **To be Extroverted** 
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
